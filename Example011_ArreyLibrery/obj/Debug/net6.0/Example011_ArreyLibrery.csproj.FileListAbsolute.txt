@@ -1,0 +1,15 @@
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\obj\Debug\net6.0\Example011_ArreyLibrery.csproj.AssemblyReference.cache
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\obj\Debug\net6.0\Example011_ArreyLibrery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\obj\Debug\net6.0\Example011_ArreyLibrery.AssemblyInfoInputs.cache
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\obj\Debug\net6.0\Example011_ArreyLibrery.AssemblyInfo.cs
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\obj\Debug\net6.0\Example011_ArreyLibrery.csproj.CoreCompileInputs.cache
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\bin\Debug\net6.0\Example011_ArreyLibrery.exe
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\bin\Debug\net6.0\Example011_ArreyLibrery.deps.json
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\bin\Debug\net6.0\Example011_ArreyLibrery.runtimeconfig.json
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\bin\Debug\net6.0\Example011_ArreyLibrery.dll
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\bin\Debug\net6.0\Example011_ArreyLibrery.pdb
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\obj\Debug\net6.0\Example011_ArreyLibrery.dll
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\obj\Debug\net6.0\refint\Example011_ArreyLibrery.dll
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\obj\Debug\net6.0\Example011_ArreyLibrery.pdb
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\obj\Debug\net6.0\Example011_ArreyLibrery.genruntimeconfig.cache
+C:\Users\Evgeny\Desktop\Examples\Test\Example011_ArreyLibrery\obj\Debug\net6.0\ref\Example011_ArreyLibrery.dll
